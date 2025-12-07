@@ -1,38 +1,21 @@
-![Logo](cp.png)
+# 👨‍💻 Harsh Kumar Mishra - Personal Portfolio
 
-# Amine Portfolio Showcase 💻
+![Portfolio Preview](preview.png)
 
-Welcome to **Amine's Portfolio Showcase**!  
-A modern **portfolio website** designed to showcase projects, skills, and personal work using **HTML, CSS, and JavaScript**.  
-It is fully **responsive**, interactive, and visually appealing across desktop, tablet, and mobile devices.
+> *Building Meaningful Digital Experiences with clean code and thoughtful design.*
 
----
+## 📌 Overview
+Welcome to my personal portfolio repository! This is a static website built from scratch using pure **HTML, CSS, and JavaScript**. It serves as a central hub to showcase my background, skills, and projects as a Computer Science student.
 
-## Live Demo 🚀
-
-You can view the live website here: [Live Demo](https://stalwart-baklava-8ed433.netlify.app/)
+**View the Live Site:** [Link to your Vercel/GitHub Pages link]
 
 ---
 
-## 🌟 Website Sections
-
-- **Home**: Developer introduction with avatar and short description  
-- **About**: Experience, tech stack, personal insights, and skill cards  
-- **Projects**: Showcase of projects with images, descriptions, and skills  
-- **Services**: Highlighting services offered with interactive cards  
-- **Contact**: Contact form and social links with interactive hover effects  
-- **Footer**: Quick navigation links and social media links
-
----
-
-## ⚡ Features
-
-- Dark theme with **blue accent color** for highlights  
-- Smooth scroll navigation between sections  
-- Fully **responsive design** for desktop, tablet, and mobile  
-- Hover effects and animations for buttons, cards, and links  
-- Contact form with validation  
-- Interactive social links  
+## 🚀 Features
+* **Pure HTML/CSS/JS:** Lightweight and fast performance without heavy frameworks.
+* **Responsive Design:** Fully optimized for different screen sizes (Mobile/Desktop).
+* **Interactive UI:** Smooth transitions and hover effects using CSS and Vanilla JS.
+* **Contact Section:** Integrated layout for contact information.
 
 ---
 
@@ -42,34 +25,58 @@ You can view the live website here: [Live Demo](https://stalwart-baklava-8ed433.
 - **CSS3** – Styling, responsive layouts, Flexbox & Grid  
 - **JavaScript (Vanilla JS)** – Interactivity and animations  
 - **Font Awesome / Boxicons** – Icons  
-- **AOS.js** – Scroll animations  
+- **AOS.js** – Scroll animations
 
 ---
 
-## License
+## 📂 Featured Projects showcased in Portfolio
 
-This project is licensed under the terms described in the [LICENSE](LICENSE) file.
+### 1. Career Advisor
+An intelligent application utilizing machine learning to guide users toward suitable career paths based on their interests.
+* [GitHub Repo](#) | [Live Demo](#)
 
----
-
-## 🚀 How to Use / Customize
-
-1. **Clone the repository:**
-
- ---
-
-## 📬 Contact
-
-- Email: aminehamzaoui1925@gmail.com   
-- Location: Boumerdès, Algeria  
-- LinkedIn: [LinkedIn](https://www.linkedin.com/in/mohamed-amine-hamzaoui-a2453a35b/)  
-- GitHub: [GitHub](https://github.com/Saboo24)  
-- Instagram: [Instagram](https://www.instagram.com/a__m.i.n__e/?utm_source=ig_web_button_share_sheet)
+### 2. Smart Campus Dashboard
+A centralized dashboard designed for managing campus resources and monitoring smart devices in real-time.
+* [GitHub Repo](#) | [Live Demo](#)
 
 ---
 
-Made with ❤️ by **Amine Hamzaoui**
+## 🎓 Education
+**B.Tech in Computer Science and Engineering**
+* *S.R. Institute of Management and Technology*
+* Lucknow, India
+
+---
+
+## 📬 Get in Touch
+I'm always open to discussing exciting projects and new opportunities.
+
+* **Email:** harshbdh123@gmail.com
+* **Phone:** +91 9565369151
+* **Location:** Lucknow, India
 
 
-```bash
-git clone https://github.com/Saboo24/portfolio-showcase.git
+
+---
+
+## 💻 Installation (Run Locally)
+
+Since this project uses only static files, you don't need to install any dependencies (like Node.js).
+
+1.  **Clone the repository:**
+    ```bash
+    git clone [https://github.com/chessman2345788/portfoilo.git](https://github.com/chessman2345788/portfoilo.git)
+    ```
+
+2.  **Navigate to the project directory:**
+    ```bash
+    cd portfoilo
+    ```
+
+3.  **Run the site:**
+    * Simply double-click `index.html` to open it in your browser.
+    * **OR** if you use VS Code, right-click `index.html` and select **"Open with Live Server"**.
+
+---
+
+*© 2025 Harsh Kumar Mishra. All Rights Reserved.*
