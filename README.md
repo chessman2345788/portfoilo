@@ -7,7 +7,7 @@
 ## 📌 Overview
 Welcome to my personal portfolio repository! This is a static website built from scratch using pure **HTML, CSS, and JavaScript**. It serves as a central hub to showcase my background, skills, and projects as a Computer Science student.
 
-**View the Live Site:** [Link to your Vercel/GitHub Pages link]
+**View the Live Site:** https://harshportfilo.netlify.app/
 
 ---
 
