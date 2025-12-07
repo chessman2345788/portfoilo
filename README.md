@@ -1,6 +1,6 @@
 # 👨‍💻 Harsh Kumar Mishra - Personal Portfolio
 
-![Portfolio Preview](preview.png)
+![Portfolio Preview](preview.png.png)
 
 > *Building Meaningful Digital Experiences with clean code and thoughtful design.*
 
